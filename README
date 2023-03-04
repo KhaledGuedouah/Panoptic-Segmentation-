@@ -1,0 +1,3 @@
+The term "panoptic" refers to the fact that panoptic segmentation combines two types of segmentation: semantic segmentation and instance segmentation. In semantic segmentation, the goal is to label each pixel with a class label (e.g., car, person, tree). In instance segmentation, the goal is to label each pixel with an instance ID (e.g., car1, car2, person1, person2).
+
+Panoptic segmentation was introduced in 2019 by Kirillov et al. in the paper "Panoptic Segmentation". The paper proposes a unified framework for panoptic segmentation, which combines a semantic segmentation network with an instance segmentation network.
